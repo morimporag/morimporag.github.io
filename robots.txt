@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://morimporag.github.io/sitemap.html
+Sitemap: https://morimporag.github.io/app/sitemap.html
+Sitemap: https://morimporag.github.io/assets/sitemap.html
+Sitemap: https://morimporag.github.io/includes/sitemap.html
+Sitemap: https://morimporag.github.io/src/sitemap.html
